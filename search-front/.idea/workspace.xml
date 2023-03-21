@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53f47a56-3b7c-40ba-8536-8bea3562a663" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../search-backen/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/common/DeleteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/common/DeleteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/CosClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/CosClientConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/JsonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/JsonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/Knife4jConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/Knife4jConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/MyBatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/MyBatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/WxOpenConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/config/WxOpenConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/constant/CommonConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/constant/CommonConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/esdao/PostEsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/esdao/PostEsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/file/UploadFileRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/file/UploadFileRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/post/PostAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/post/PostAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/post/PostEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/post/PostEditRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/post/PostQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/post/PostQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/post/PostUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/post/PostUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/postfavour/PostFavourAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/postfavour/PostFavourAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/postfavour/PostFavourQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/postfavour/PostFavourQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/postthumb/PostThumbAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/postthumb/PostThumbAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/user/UserAddRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/user/UserAddRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/user/UserQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/user/UserQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/user/UserUpdateMyRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/user/UserUpdateMyRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/user/UserUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/dto/user/UserUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/entity/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/entity/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/entity/PostFavour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/entity/PostFavour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/entity/PostThumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/entity/PostThumb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/vo/LoginUserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/vo/LoginUserVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/vo/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/model/vo/UserVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/utils/SpringContextUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/main/java/com/yupi/springbootinit/utils/SpringContextUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/CrawlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/CrawlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/manager/CosManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/manager/CosManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/mapper/PostFavourMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/mapper/PostFavourMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/mapper/PostMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/mapper/PostMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/service/PostServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/service/PostServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/utils/EasyExcelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search-backen/src/test/java/com/yupi/springbootinit/utils/EasyExcelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MyDivder.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MyDivider.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PictureList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PictureList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/IndexPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/IndexPage.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="2MgLxtNoKDbTYfa9YYJqJ20PHDD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\JavaProject\yupiProject\search\search-front\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="D:\JavaProject\yupiProject\search\search-front\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\yupiProject\search\search-front\src\components" />
+      <recent name="D:\JavaProject\yupiProject\search\search-front\src\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53f47a56-3b7c-40ba-8536-8bea3562a663" name="Changes" comment="" />
+      <created>1678184530887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678184530887</updated>
+      <workItem from="1678184532995" duration="9891000" />
+      <workItem from="1678240752141" duration="7409000" />
+      <workItem from="1678622658802" duration="1247000" />
+      <workItem from="1679033865874" duration="4792000" />
+    </task>
+    <task id="LOCAL-00001" summary="day 1">
+      <created>1678193621306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678193621306</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day 1">
+      <created>1678196745275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678196745275</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
